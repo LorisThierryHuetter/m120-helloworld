@@ -1,0 +1,48 @@
+.BMI {
+    margin: 25px;
+}
+
+#border {
+    border-style: line;
+    border: 2px solid #ff0000;
+    border-radius: 25px;
+    padding: 50px;
+    width: 400px;
+}
+
+#container {
+    float: right;
+}
+
+#senden {
+    border-style: line;
+    border: 2px solid #c407c4;
+    background: #c407c4;
+    border-radius: 5px;
+    width: auto;
+    color: white;
+    height: auto;
+    padding: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+#delete {
+    border-style: none;
+    border: none;
+    background: none;
+    float: right;
+    height: auto;
+    padding: 5px;
+    margin-top: 5px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+#delete:hover {
+    color: yellowgreen;
+}
+
+input {
+    float: right;
+}
